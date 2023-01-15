@@ -3,7 +3,9 @@
 #  This script is intended to download amino-acid or nucleotide sequences from a list of identifiers 
 #  stored in a file. For this purpose, the NCBI E-utilities Efecth and Epost are used. 
 
-#  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY
+#  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.
+#  It was created with the aim of downloading a large number of proteins, so problems may appear 
+#  that have not been considered with nucleotide sequence IDs.
 
 #  Usage: NCBI_downloader_from_idfile.py "input_file" "output_file" batch_size "db" "ret_type" "api_key" "email"
 
