@@ -1,4 +1,4 @@
-# NCBI sequence downloader from id file
+# NCBI sequence downloader from ID file
 
 ## Description
 
